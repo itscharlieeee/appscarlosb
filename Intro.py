@@ -51,7 +51,7 @@ with col2:
  image = Image.open('data_analisis.png')
  st.image(image, width=190)
  st.write("En la siguiente enlace veremos como se pueden analizar datos usando agentes.") 
- url = "https://asistpy-csv.streamlit.app/"
+ url = "https://tdfesp-jxv8xoqoq8skc2nrtdhvka.streamlit.app/"
  st.write(f"Datos: [Enlace]({url})")
 
  st.subheader("Trasnscriptor Audio y Video")
