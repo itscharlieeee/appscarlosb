@@ -74,7 +74,7 @@ with col3:
  image = Image.open('OIG4.jpg')
  st.image(image, width=200)
  st.write("En la siguiente enlace veremos la capacidad de análisis en Imágenes.") 
- url = "https://vision2-gpt4o.streamlit.app/"
+ url = "https://vision2-34fmzwrytqyyua8d8rqpyc.streamlit.app/"
  st.write(f"Vision: [Enlace]({url})")
  
  st.subheader("Sistema Ciberfísico")
