@@ -58,8 +58,8 @@ with col2:
  image = Image.open('OIG3.jpg')
  st.image(image, width=200)
  st.write("En la siguiente enlace veremos como realizamos transcripciones de audio/video.") 
- url = "https://transcript-whisper.streamlit.app/"
- st.write(f"Transcriptor: [Enlace]({url})")
+ url = "https://transcript-5hycyujckg3unbpyjufzk8.streamlit.app/"
+ st.write(f"LINK: [Enlace]({url})")
 
 
 with col3: 
