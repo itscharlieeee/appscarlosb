@@ -18,7 +18,7 @@ col1, col2, col3 = st.columns(3)
 
 with col1:
 
-st.subheader("Intro!!!")
+ st.subheader("Intro!!!")
  image = Image.open('gato.jpg')
  st.image(image, width=190)
  st.write("En la siguiente enlace veremos mi primera página app") 
