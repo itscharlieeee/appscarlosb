@@ -88,7 +88,7 @@ with col3:
  image = Image.open('OIG6.jpg')
  st.image(image, width=200)
  st.write("En la siguiente enlace veremos la capacidad de interacción con el mundo físico.") 
- url = "https://vision2-gpt4o.streamlit.app/"
+ url = "https://vision2-34fmzwrytqyyua8d8rqpyc.streamlit.app/"
  st.write(f"Vision: [Enlace]({url})")
 
 
