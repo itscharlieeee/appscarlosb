@@ -21,7 +21,7 @@ with col1:
  st.subheader("Intro!!!")
  image = Image.open('gato.jpg')
  st.image(image, width=190)
- st.write("En la siguiente enlace veremos mi primera página app") 
+ st.write("En la siguiente enlace veremos mi primera app") 
  url = "https://intromiprimera-2g57al7nfjj6k3w9y8u2pq.streamlit.app/"
  st.write(f"LINK: [Enlace]({url})")
 
